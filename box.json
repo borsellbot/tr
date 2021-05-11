@@ -1,0 +1,19 @@
+{
+    "name":"PresideCMS Extension: Helios",
+    "version":"0.0.1",
+    "author":"Mitrahsoft",
+    "createPackageDirectory":true,
+    "packageDirectory":"application/extensions/preside-theme-helios",
+    "homepage":"https://github.com/Mitrahsoft/preside-theme-helios",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/Mitrahsoft/preside-theme-helios"
+    },
+    "bugs":"https://github.com/Mitrahsoft/preside-theme-helios",
+    "slug":"preside-theme-helios",
+    "projectURL":"https://github.com/Mitrahsoft/preside-theme-helios",
+    "ignore":[
+        "**/.*"
+    ]
+}
